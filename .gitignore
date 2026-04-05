@@ -19,3 +19,4 @@ token.json
 # Extracted email artifacts
 html_output/
 saved_html/
+saved_htmls/
